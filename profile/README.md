@@ -1,4 +1,4 @@
-# 这里是虚拟现实中文开发者社区（Virtual Reality Chinese Developer）
+# 虚拟现实中文开发者社区（Virtual Reality Chinese Developer）
 
 一个中文 VR 内容开发者社区。
 
